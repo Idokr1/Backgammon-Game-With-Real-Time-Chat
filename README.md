@@ -12,3 +12,4 @@ The project follows Clean Architecture principles, which means that the code is 
 ## Run the Project:
 1. Run the Server solution
 2. Run the client using a terminal with "npm start" command
+3. Open the application in your browser: http://localhost:3000

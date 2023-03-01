@@ -4,3 +4,9 @@ A web-based backgammon game that includes a chat feature. It was developed using
 The project follows Clean Architecture principles, which means that the code is organized into layers that are independent of each other. This makes the code more maintainable, testable, and scalable.
 
 ## Installation
+### Server
+
+
+### Client
+
+## Run the Project:

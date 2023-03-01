@@ -13,3 +13,13 @@ The project follows Clean Architecture principles, which means that the code is 
 1. Run the Server solution
 2. Run the client using a terminal with "npm start" command
 3. Open the application in your browser: http://localhost:3000
+
+## Usage
+1. Create new accounts in different tabs
+2. You can chat with the second account or play a backgammon game against him
+
+## Built With
+1. React
+2. ASP.NET
+3. MongoDB
+4. SignalR

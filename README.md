@@ -23,3 +23,6 @@ The project follows Clean Architecture principles, which means that the code is 
 2. ASP.NET
 3. MongoDB
 4. SignalR
+
+## Application
+![App](/backgammongame.png)
